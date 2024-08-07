@@ -1,0 +1,23 @@
+ASSIGNMENT 5
+
+	Brief introduction to Google Colab and its main features:
+
+Google Colaboratory (Colab) is a free cloud-based platform that allows users to write and execute Python code in Jupyter Notebooks. It is particularly useful for data science and machine learning projects.
+
+Main Features:
+
+Cloud-Based: No setup required, and code execution happens in the cloud.
+
+Free GPU and TPU: Provides access to powerful hardware for training machine learning models.
+
+Collaborative: Multiple users can work on the same notebook simultaneously.
+
+Integration with Google Drive: Easy saving and sharing of notebooks.
+
+Specific Use Cases:
+
+Machine Learning Experiments: Training models using GPU/TPU.
+
+Collaborative Projects: Sharing notebooks with team members for collaborative coding.
+
+Prototyping and Experimentation: Quick setup for testing new ideas and algorithms.
