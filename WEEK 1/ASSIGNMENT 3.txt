@@ -24,6 +24,13 @@ Benefits for Data Science and Machine Learning :
 
 • Data Visualization: Extensions like Python Plot Viewer allow for in-editor visualization of data, which is invaluable for data analysis and model evaluation.
 
+
+
+
+
+
+
+
 • Code Snippets and Automation: The ability to create and use code snippets speeds up repetitive tasks, making the coding process more efficient.
 
 • Integrated Environment: The combination of code editing, terminal access, version control, and debugging in one tool creates a cohesive environment, reducing context switching and improving workflow efficiency.
