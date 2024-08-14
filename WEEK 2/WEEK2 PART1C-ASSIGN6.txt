@@ -1,0 +1,58 @@
+Command Line Basics
+Command Line Navigation
+Change Directory (cd)
+
+To navigate through directories:
+Use cd followed by the directory path to change into that directory.
+Use cd .. to move up one directory level.
+Example:
+cd Documents    # Change into the Documents directory
+cd ..           # Move up to the parent directory
+
+List Files (ls)
+To list files and directories in the current directory:
+Use ls to display a simple list of names.
+Use ls -l for a detailed listing with permissions, size, and modification date.
+Example:
+ls            # List files and directories
+ls -l         # Detailed listing
+
+
+Print Working Directory (pwd)
+To display the current directory path:
+Use pwd.
+Example:
+pwd           # Print the current directory path
+
+
+File Manipulation
+Create Files and Directories
+To create new files and directories:
+Use touch to create a new file.
+Use mkdir to create a new directory.
+Example:
+touch example.txt          # Create a new file named example.txt
+mkdir new_directory        # Create a new directory named new_directory
+
+
+Copy Files and Directories (cp)
+To copy files and directories:
+Use cp followed by the source and destination paths.
+Example:
+cp example.txt new_directory/example_copy.txt    # Copy example.txt to new_directory
+
+
+Move/Rename Files and Directories (mv)
+To move or rename files and directories:
+Use mv followed by the source and destination paths.
+Example:
+mv example.txt new_directory/renamed_example.txt   # Move example.txt to new_directory and rename it
+
+
+Delete Files and Directories (rm and rmdir)
+To delete files and directories:
+Use rm to remove files.
+Use rmdir to remove empty directories.
+Example:
+rm example.txt               # Delete example.txt
+rmdir new_directory          # Delete new_directory (only works if empty)
